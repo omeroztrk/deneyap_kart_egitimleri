@@ -5,7 +5,6 @@ int hareket;    //Pinler ve hareket değişkeni tanımlandı
 
 void setup() { //giriş ve çıkış pinleri tanımlandı
   pinMode(pirPin, INPUT);
-  pinMode(led, OUTPUT);
 
   Serial.begin(115200);
 }
