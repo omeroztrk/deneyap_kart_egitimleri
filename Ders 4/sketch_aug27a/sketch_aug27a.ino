@@ -28,7 +28,7 @@ void anasayfa(){
 "<script>\n"
 "setTimeout(function(){\n"
 "   window.location.reload(1);\n"
-"}, 1000);\n"
+"}, 5000);\n"
 "</script>\n"
 "</html>\n"
 ""
